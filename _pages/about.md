@@ -21,7 +21,7 @@ I'm currently a senior undergraduate student at Xi'an Jiaotong University. Also,
 
 I like photography, music(especially Cantopop and Chinese Indie), movies and literature. My favorite singers/bands are Anpu, Juno Mak and my little airport, my favorite film directors are Ingmar Bergman, Luis Buñuel and Wong Kar Wai, and my favorite writers are Hermann Hesse, Mishima Yuki and Virginia Woolf.
 
-I look forward to if you are willing to communicate with me, about anything.
+I am looking forward to communicating with you if you are willing to.
 
 
 <!-- 
