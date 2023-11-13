@@ -17,7 +17,7 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I'm currently an undergraduate student at Xi'an Jiaotong University. Also, I am from Young Gifted Honor Program at XJTU and have graduated within the top 30% among 115 people. I major in artificial intelligence. Due to my performance, I have received a third-class scholarship. I spent a semester as an exchange student at the University of California, Berkeley. I will complete my bachelor's degree in July of 2024, and I am eager to pursue further studies in artificial intelligence. 
+I'm currently a senior undergraduate student at Xi'an Jiaotong University. Also, I am from Young Gifted Honor Program at XJTU and have graduated within the top 30% among 115 people. I major in artificial intelligence. Due to my performance, I have received a third-class scholarship. I spent a semester as an exchange student at the University of California, Berkeley. I will complete my bachelor's degree in July of 2024, and I am eager to pursue further studies in artificial intelligence. 
 
 I like photography, music(especially Cantopop and Chinese Indie), movies and literature. My favorite singers/bands are Anpu, Juno Mak and my little airport, my favorite film directors are Ingmar Bergman, Luis Buñuel and Wong Kar Wai, and my favorite writers are Hermann Hesse, Mishima Yuki and Virginia Woolf.
 
