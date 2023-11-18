@@ -4,7 +4,7 @@ title: Memento 记得
 date: 2023-06-10 09:56:00-0400
 # description: an example of a blog post with bibliography
 # tags: formatting bib
-categories: writing
+categories: writings
 giscus_comments: true
 related_posts: true
 # related_publications: einstein1950meaning, einstein1905movement

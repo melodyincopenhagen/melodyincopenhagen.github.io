@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Timing is Everything, 9522
-date: 2023-09-15 09:56:00-0400
+date: 2023-10-11 09:56:00-0400
 description: 焦安溥发行于2022年的专辑
 # tags: formatting bib
-categories: images
+categories: images albums
 giscus_comments: true
 related_posts: true
 # related_publications: einstein1950meaning, einstein1905movement

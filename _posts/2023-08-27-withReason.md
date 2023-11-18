@@ -119,6 +119,20 @@ This post shows how to add bibliography to simple blog posts. If you would like 
 </div>
 
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+       {% include figure.html path="assets/img/P1250933.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+       {% include figure.html path="assets/img/P1250949.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+
 <script src="https://giscus.app/client.js"
         data-repo="melodyincopenhagen/melodyincopenhagen.github.io"
         data-repo-id="R_kgDOKsfYeA"
