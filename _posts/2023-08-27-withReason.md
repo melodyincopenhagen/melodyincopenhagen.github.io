@@ -105,6 +105,11 @@ This post shows how to add bibliography to simple blog posts. If you would like 
     </div>
 </div>
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+       {% include figure.html path="assets/img/37.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 
 <div class="row mt-3">
