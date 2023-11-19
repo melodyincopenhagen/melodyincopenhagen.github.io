@@ -264,7 +264,7 @@ jekyll-archives:
     category: '/blog/category/:name/'
 
 # display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
-display_categories: ['images','friends','albums','writings','lives','vlogs','film'] # these categories will be displayed on the front page of your blog
+display_categories: ['images','notes','albums','writings','lives','vlogs','film'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
