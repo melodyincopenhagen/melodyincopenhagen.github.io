@@ -25,46 +25,46 @@ This post shows how to add bibliography to simple blog posts. If you would like 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/img/P1260585.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+       {% include figure.html path="assets/img/P1260585.JPG" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
     </div>
 </div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/img/P1260597.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+       {% include figure.html path="assets/img/P1260597.JPG" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
     </div>
 </div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/img/P1260622.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+       {% include figure.html path="assets/img/P1260622.JPG" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/img/P1260649.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/img/P1260689.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/img/P1260780.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+       {% include figure.html path="assets/img/P1260649.JPG" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
     </div>
 </div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/img/P1260797.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+       {% include figure.html path="assets/img/P1260689.JPG" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/img/P1260849.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+       {% include figure.html path="assets/img/P1260780.JPG" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+       {% include figure.html path="assets/img/P1260797.JPG" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+       {% include figure.html path="assets/img/P1260849.JPG" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
     </div>
 </div>
 

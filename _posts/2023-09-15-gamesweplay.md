@@ -15,46 +15,46 @@ This post shows how to add bibliography to simple blog posts. If you would like 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/albums/5a54fcb25563de4d2b80d50cf5ddf3b2.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+       {% include figure.html path="assets/albums/5a54fcb25563de4d2b80d50cf5ddf3b2.JPG" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
     </div>
 </div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/albums/086d1f5e92d8db8bca076c70ceb59647.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+       {% include figure.html path="assets/albums/086d1f5e92d8db8bca076c70ceb59647.JPG" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
     </div>
 </div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/albums/851eeea34dc9b759bf507c1a1f08f026.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+       {% include figure.html path="assets/albums/851eeea34dc9b759bf507c1a1f08f026.JPG" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/albums/1609c2a8fd630456d1f406347dd18b25.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/albums/bc054a3ee3e1df6a5b29508b8c3f4bd7.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/albums/IMG_2399.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+       {% include figure.html path="assets/albums/1609c2a8fd630456d1f406347dd18b25.JPG" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
     </div>
 </div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/albums/IMG_2400.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+       {% include figure.html path="assets/albums/bc054a3ee3e1df6a5b29508b8c3f4bd7.JPG" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/albums/IMG_2401.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+       {% include figure.html path="assets/albums/IMG_2399.jpg" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+       {% include figure.html path="assets/albums/IMG_2400.jpg" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+       {% include figure.html path="assets/albums/IMG_2401.jpg" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
     </div>
 </div>
 

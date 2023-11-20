@@ -15,63 +15,63 @@ This post shows how to add bibliography to simple blog posts. If you would like 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/yongninggate/P1260981.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+       {% include figure.html path="assets/yongninggate/P1260981.jpg" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
     </div>
 </div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/yongninggate/P1270011.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+       {% include figure.html path="assets/yongninggate/P1270011.JPG" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
     </div>
 </div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/yongninggate/P1270017.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+       {% include figure.html path="assets/yongninggate/P1270017.JPG" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy" %}
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/yongninggate/P1270035.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/yongninggate/P1270036.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/yongninggate/P1270037.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+       {% include figure.html path="assets/yongninggate/P1270035.JPG" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
     </div>
 </div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/yongninggate/P1270043.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+       {% include figure.html path="assets/yongninggate/P1270036.JPG" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/yongninggate/P1270058.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/yongninggate/P1270091.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+       {% include figure.html path="assets/yongninggate/P1270037.JPG" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
     </div>
 </div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/yongninggate/P1270102.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+       {% include figure.html path="assets/yongninggate/P1270043.jpg" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets//yongninggate/P1270104.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+       {% include figure.html path="assets/yongninggate/P1270058.JPG" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+       {% include figure.html path="assets/yongninggate/P1270091.jpg" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+       {% include figure.html path="assets/yongninggate/P1270102.jpg" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+       {% include figure.html path="assets//yongninggate/P1270104.jpg" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
     </div>
 </div>
 
