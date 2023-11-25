@@ -41,22 +41,6 @@ This post shows how to add bibliography to simple blog posts. If you would like 
        {% include figure.html path="assets/albums/bc054a3ee3e1df6a5b29508b8c3f4bd7.JPG" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
     </div>
 </div>
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/albums/IMG_2399.jpg" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
-    </div>
-</div>
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/albums/IMG_2400.jpg" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
-    </div>
-</div>
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/albums/IMG_2401.jpg" class="img-fluid rounded z-depth-1" zoomable=true loading="lazy"%}
-    </div>
-</div>
 
 
 
